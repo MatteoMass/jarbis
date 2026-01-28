@@ -1,0 +1,14 @@
+[project]
+name = "jarbis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Massetti Matteo", email = "ma.massetti@reply.it" }
+]
+requires-python = ">=3.13"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
