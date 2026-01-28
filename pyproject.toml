@@ -1,10 +1,10 @@
 [project]
 name = "jarbis"
 version = "0.1.0"
-description = "Add your description here"
+description = "Just A Really Brilliant Intelligent System"
 readme = "README.md"
 authors = [
-    { name = "Massetti Matteo", email = "ma.massetti@reply.it" }
+    { name = "Massetti Matteo", email = "matteomassetti8@gmail.com" }
 ]
 requires-python = ">=3.13"
 dependencies = []
